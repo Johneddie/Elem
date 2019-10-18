@@ -1,0 +1,309 @@
+
+
+dos hijos
+
+disci
+
+angeles
+casamiento
+
+escucha h israel
+
+hipocresia de los escribas
+largas oraciones
+
+salmos 110 1 sentrado a derecho
+jehova a adonai
+Cristo de manera clara inspirada por Dios
+David mismo no sabía lo que estaba profetizando
+
+no es facil entender su lenguaje
+
+Isa7:14
+
+modismo 
+descendiente de alguien 
+hijo de mi abuelo 
+
+escribas???
+saludos en las casas
+mayor condenacion
+vestiduras largas
+
+cubrir nuestras verguenzas
+intension por la cual usamos
+reaccion que otros nos vean 
+sangre es lo que nos cubre
+necesidad en mi vida
+externo temporal
+
+saludos en las plazas
+la gente se paraba 
+respeto por el caminar por Dios
+habla como uno que tiene autoridad
+peso de la enseñanza
+no buscaba el favor de nadie
+
+orgullo
+palabra lo trae a colasion una y otra vez
+reconocimiento, tomen en cuenta, lo mencionen
+orgullo que no lo mencionen XD
+
+humildad no quiere los primeros lugares
+no se molesta con aquellos que lo quieren
+no quiere que lo mencionen
+Jesus: manso y humilde
+
+Lucas 14:9
+seras honrado
+todo el que se ensalse y el que se humille sera ensalsado
+todo lo externo obedecia a lo interna
+recibiran mayor condenacion
+
+Saqueo jefe de los recaudares 
+jovne rico - Jesus le amo
+nicodemo - veia de noche
+confronto la actitud egoista de los fariseos
+
+oraciones
+palabreria
+Espiritu
+no useis repeticiones
+intension en el corazón
+sabe que le quedan un par de dias
+
+2 cuadrantes menos que un centavo
+receptaculos trompetas 13
+hace dos mil años falsas
+era publico
+
+vive con menos de un dolar al día
+1400 millones de personas
+3500 
+2800
+30% agua potable sanitario 
+92% no tiene carro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+martes
+
+
+edelacruzca
+jsanchezm
+
+
+
+T9864SolNeceCapa (223 registros)
+T9863AccionCapa (159 registros)
+
+10
+alopezm
+
+sincronizacion
+
+
+parametro
+
+
+
+10
+
+http://localhost:81/cl-at-iamenu/menuS03Alias?accion=invocarPrograma&programa=2:2.4.2&nm=1
+
+cdiaz
+
+gestor espe de orienta -> gestor de orientacion
+
+50383
+
+@
+
+
+liz triunfo
+
+
+20511704406 
+
+alopezm
+
+select * from t7862solicbienfisc where num_correl='354'
+
+
+
+
+jdbc:informix-sqli://150.100.21.122:50060/sicobf:informixServer=p02_notifica
+
+
+
+jdbc:informix-sqli://150.100.21.122:50060/sicobf:informixServer=p02_notifica
+
+tendremos batallas todos los dias hasta la muerte
+queremos ganar o perder
+provecho para el reino
+
+jesus se acercó diciendo: "toda potestan me hes dada"
+enseñandoles 
+
+batallas internacional o hogares
+
+la gente tiene toda clase de luchas
+desobediencia
+dudas problemas
+
+internas, con nosotros mismos, heridas, sentimientos de rechazo, enemistad falta de perdon 
+externas
+
+relacion estreca con Dios
+
+mateo 26:36
+mi alma esta muy triste hasta la muerte
+decidir si iba o no a la cruz
+hay alguna manera que poder pasar eso sin separarnos
+dolor y sufrimiento sin Cristo
+
+experimentar el sufrimiento - separado
+
+1. por q debemos librarlas de rodillas
+ muy dificil 
+ Ezequias
+ Daniel: foso de los leones
+ Jesus: huerto de Getse..
+ seremos atacados
+humillamos reverenciamos quien es el 
+involucramos a Dios
+ quien sabe todo
+ poder de ejecutar todo
+Espiritu Santo
+
+
+
+
+
+1. el espiritu esta dispuesto pero ...
+
+2. Salomon
+
+3. pablo probado en todo
+
+4. 
+
+ 
+
+
+ 
+
+
+
+
+
+
+PAS20191U230100087
+
+523
+
+20
+27
+4
+
+
+
+PAS20191U230300212 - DDJJ trabajadores y familiares: Corrección en nombre completo en seguimientos.
+
+
+    $("#btnExportarPendientes").click(function(){
+    	if($('#frmBuscarSolicitudes').valid()){
+    		var params = "codTipEvenBusq"+$("#codTipEvenBusq").val()+
+		    		"&fecRegisIniBusq"+$("#fecRegisIniBusq").val()+
+		    		"&fecRegisFinBusq"+$("#fecRegisFinBusq").val();
+    		document.forms.formSecundario.action = CONTEXT_APP+"/bandejaSolicitud/pendientes/exportar?" + params;
+    		document.forms.formSecundario.method = "post";
+    		document.forms.formSecundario.submit();
+    	}
+    });
+
+
+
+function onClickDescargarDocumento(numArchFicha){
+	if(numArcSolic==null){
+		mostrarMensajeError("No se adjuntó ningún archivo.");
+	}else{
+		$("#numArcSolicDescarga").val(numArcSolic);
+		$("#frmDocumentoDescarga").submit();
+	}
+
+
+principal
+Torres Panaifo Tania (ttorresp)
+
+apoyo
+Hurtado Romero Yanet (yhurtador)
+
+}
+
+TANIA TORRES PANAIFO
+
+hurtado romero
+
+
+edelacruzca
+
+	
+
+Preguntas para el usuario 
+¿se va a registrar un nuevo periodo?
+¿la ficha es obligatoria?
+¿como es el trato de las secciones?
+
+
+capacidad de gasto
+
+
+
+
+Buenas tardes,
+
+Se solicita la ejecución diaria automática de script de descarga de planos y actualización según adjunto.
+
+
+
+
+Como 
+
+
+
+
+
+sirjava
+
+admincalifi
+
+
