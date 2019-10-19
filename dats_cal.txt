@@ -1,3 +1,21 @@
+SeÃ±or te adoramos
+gracias por Pedro
+
+
+
+
+inteligencia artificial
+palabras
+convencimiento
+Mateo 21:28-32
+
+
+Marcos 12
+2 Corintios 8:1-5
+
+
+
+
 
 
 dos hijos
@@ -15,7 +33,7 @@ largas oraciones
 salmos 110 1 sentrado a derecho
 jehova a adonai
 Cristo de manera clara inspirada por Dios
-David mismo no sabía lo que estaba profetizando
+David mismo no sabÃ­a lo que estaba profetizando
 
 no es facil entender su lenguaje
 
@@ -41,7 +59,7 @@ saludos en las plazas
 la gente se paraba 
 respeto por el caminar por Dios
 habla como uno que tiene autoridad
-peso de la enseñanza
+peso de la enseÃ±anza
 no buscaba el favor de nadie
 
 orgullo
@@ -69,15 +87,15 @@ oraciones
 palabreria
 Espiritu
 no useis repeticiones
-intension en el corazón
+intension en el corazÃ³n
 sabe que le quedan un par de dias
 
 2 cuadrantes menos que un centavo
 receptaculos trompetas 13
-hace dos mil años falsas
+hace dos mil aÃ±os falsas
 era publico
 
-vive con menos de un dolar al día
+vive con menos de un dolar al dÃ­a
 1400 millones de personas
 3500 
 2800
@@ -170,8 +188,8 @@ tendremos batallas todos los dias hasta la muerte
 queremos ganar o perder
 provecho para el reino
 
-jesus se acercó diciendo: "toda potestan me hes dada"
-enseñandoles 
+jesus se acercÃ³ diciendo: "toda potestan me hes dada"
+enseÃ±andoles 
 
 batallas internacional o hogares
 
@@ -236,7 +254,7 @@ PAS20191U230100087
 
 
 
-PAS20191U230300212 - DDJJ trabajadores y familiares: Corrección en nombre completo en seguimientos.
+PAS20191U230300212 - DDJJ trabajadores y familiares: CorrecciÃ³n en nombre completo en seguimientos.
 
 
     $("#btnExportarPendientes").click(function(){
@@ -254,7 +272,7 @@ PAS20191U230300212 - DDJJ trabajadores y familiares: Corrección en nombre comple
 
 function onClickDescargarDocumento(numArchFicha){
 	if(numArcSolic==null){
-		mostrarMensajeError("No se adjuntó ningún archivo.");
+		mostrarMensajeError("No se adjuntÃ³ ningÃºn archivo.");
 	}else{
 		$("#numArcSolicDescarga").val(numArcSolic);
 		$("#frmDocumentoDescarga").submit();
@@ -279,9 +297,9 @@ edelacruzca
 	
 
 Preguntas para el usuario 
-¿se va a registrar un nuevo periodo?
-¿la ficha es obligatoria?
-¿como es el trato de las secciones?
+Â¿se va a registrar un nuevo periodo?
+Â¿la ficha es obligatoria?
+Â¿como es el trato de las secciones?
 
 
 capacidad de gasto
@@ -291,7 +309,7 @@ capacidad de gasto
 
 Buenas tardes,
 
-Se solicita la ejecución diaria automática de script de descarga de planos y actualización según adjunto.
+Se solicita la ejecuciÃ³n diaria automÃ¡tica de script de descarga de planos y actualizaciÃ³n segÃºn adjunto.
 
 
 
