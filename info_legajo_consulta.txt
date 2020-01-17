@@ -1,0 +1,949 @@
+
+Entonces consultó David a Jehová, diciendo: ¿Iré contra los filisteos? ¿Los entregarás en mi mano? Y Jehová respondió a David: Ve, porque ciertamente entregaré a los filisteos en tu mano.
+
+
+no quiero que se haga de noche
+otra vez hay que dormir
+los tiempos de oscuridad son para descanso
+la oscuridad, el silencio parte del plan
+
+en oscuridad no se tiene mucha conciencia de Dios
+exodo
+gene - 4 siglos del medio - exodo
+
+salmos 121:4 no se duerme, no deja de amar
+salmos 3:5 me acoste y dormi porque el me sustentaba
+
+para Dios no hay noche
+oscuridad quita el descanso
+oracion sin respuesta
+el desierto esta ahi
+
+sabe hasta cuando podemos resistir
+forjar el caracter 
+nos va hacer fuerte
+antes futuras crisis
+
+enfermedada, revez financiero
+valles tienen que estar
+valle de lagrimas
+salmos 84:5
+
+valle donde vas solo
+aunque me duele
+territorio hostil
+
+1. vida real lagrimas - reir llorar - fuente a pesar del dolor 
+me perdi horas de mi infancia preocupado por mi vida adulta
+nunca iba a casarme
+nunca iba a estudiar
+si tan solo hubiese sido más maduro...
+
+Salmos 23
+aunque pase el valle de muerte 
+
+2. valle de muerte
+la mano del Señor vino sobre mi y me llevo en medio de valle de huesos secos
+crees que pueden revivir estos huesos?
+profetiza sobre lo que está muerte
+
+no le hables a Dios acerca de la montaña
+dile a la montaña
+hablale de Dios ala montaña
+profetiza sobre tu familia
+
+algo del cual no tenemos control..****
+
+3. Uncion 
+duda del llamado
+David habia sido ungido subieron todos contra el 
+atacalo y te aseguro que te lo entregare 
+2 Samuel 5:1-25 - S    17-25
+airamos pecamos 
+en cada movim 
+a causa de la uncion el infierno se levanta
+nueva uncion 
+cada mov de Dios / Satanas se preocupa
+cuando Satanas mata a todos lo niños ,torpe, e idiota
+si no hay ataques deberías preocuparte
+no hay posibilidad que el plan aborte
+
+1 Reyes 20:23
+Dios no te abandona en ninguna de las tres
+los siervos del rey de siria
+dios de montes y montañas
+
+1 Reyes 20:28
+ Vino entonces el varón de Dios al rey de Israel, y le habló diciendo: Así dijo Jehová: Por cuanto los sirios han dicho: Jehová es Dios de los montes, y no Dios de los valles, yo entregaré toda esta gran multitud en tu mano, para que conozcáis que yo soy Jehová.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+demeritos todos
+
+Ha ocurrido un error al procesar el listado de capacitaciones, por favor verifique el formato de los campos.
+
+
+
+
+
+		mapRpta.put("indError", true);
+    	mapRpta.put("nomError", nomError);
+    	mapRpta.put("desError", desError);
+
+
+especia.setIndDel(Constantes.INDI_NOELIMIN);
+
+
+
+otra
+
+013
+cen.cod_tab='013'
+
+"t5864parametro.listarCentrosEstudio"
+
+
+
+		if("01".equals(codTipDocum)){
+	    /*File file = new File(url);
+	    if(file.exists()){
+	    	if(file.delete())
+	    		log.debug("Archivo existente eliminado.");
+	    }*/
+
+cambiar nombre
+
+
+
+ambos sentimos lo mismo y decidimos para que posponerlo más   
+ 
+
+
+
+Command: Commit  
+Adding: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DDL_01.sql  
+Modified: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DML_01.sql  
+Adding: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DML_02.sql  
+Sending content: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DDL_01.sql  
+Sending content: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DML_01.sql  
+Sending content: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DML_02.sql  
+Completed: At revision: 54876  
+
+
+12
+
+
+
+consulta adjunto en capacitaciones internas
+
+persona
+tipo certificado
+
+
+
+
+siged ticket
+
+
+
+JSANCHEZM
+
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+
+
+Dios danilo montero
+
+christian sanchez
+
+
+
+
+13
+
+edelacruzca
+
+experiencia
+===========
+viene de seleccion 
+aun laborando
+por verificar
+
+/formacion/registrar
+v
+
+
+
+https://stackoverflow.com/questions/19025748/finish-of-multiple-file-upload
+
+13.26
+
+$('#tblFiles').DataTable().clear().draw();
+
+OK
+SIN ARCHIVO
+
+
+
+ok
+sin archivo
+
+
+
+
+obj puerto 80
+
+
+
+  num_id_ecm           varchar(50),
+  nom_arch             varchar(100),
+
+num_id_ecm
+
+
+que migren todos - 'correo' roxana
+
+
+
+
+
+
+
+insert into t1506programa values(2,1,(select max(cod_sistema) from t1509sistema where cod_pestana=2 and cod_agrupacion =1),1,3,'Carga de Documentos',	'/ol-ti-ialegajo-gestion','/cargaDocumento/inicio',null,null,
+to_date('01/01/2010','%d/%m/%Y'),to_date('01/01/2099','%d/%m/%Y'),'00:00','23:59',2,1,(select max(cod_sistema) from t1509sistema where cod_pestana=2 and cod_agrupacion =1),1,3,1,1,'1',null,'PAS20161U230300281',CURRENT,'intranet');
+
+
+
+
+
+
+
+Arte Islámico
+Arte Bizantino (imperio romano)
+Piezas Egipcias
+Cultura Grecia
+Etc etc
+
+
+
+golpea fuerte
+descansar en Cristo
+agradable 
+
+
+sir 95
+sir 164
+
+
+
+50470
+
+
+333889
+
+http://192.168.56.108/rest/bpm/wle/v1/process/4475/taskSummary/All?offset=0&limit=100
+
+limpiar
+seleccion
+bandeja scroll
+
+no compare fecha de certificacion
+
+
+CALL ERRORLOG("INICIO")
+
+FT parte 1
+
+one thing remains 
+03/01/2020
+17:30 21:40
+
+06/01/2020
+19:33:27
+
+07/01/2020
+19:37:33
+
+
+
+fxpc fi
+fglgo1 fi
+
+com pfr392
+
+ssm01.4ge 2020 1 1 1 pf2
+
+
+
+
+
+
+  @SuppressWarnings("unchecked")
+	public LegajoFormac obtenerFormacByDocum(Integer numIdDocum) {
+    	LegajoFormac formacion = null;
+    	LegajoFormacExample lfe = new LegajoFormacExample();
+    	LegajoFormacExample.Criteria lfc = lfe.createCriteria();
+    	lfc.andNumIdDocumEqualTo(numIdDocum);
+    	
+    	List<LegajoFormac> lstFormacion = getSqlMapClientTemplate().queryForList("t10171legajoformac.selectByExample", lfe);
+    	if(!lstFormacion.isEmpty())
+    		formacion = lstFormacion.get(0);
+        
+        return formacion;
+    }
+
+formacin
+especializaciones (no certificaciones)
+
+   LET gcod_opid   = 'QV28'
+   LET ganho_ejer  = '2020'
+
+
+
+
+victor segovia 
+
+
+
+alopezma
+
+=BUSCARV(C2;Hoja3!A2:C108;3;VERDADERO)
+
+
+\/ol-iq-iacalificacion-ws\/
+
+8A2100
+
+Reg.	
+Apellidos y Nombres	
+UUOO Asig.	
+Categ.	
+DNI	
+Estado	
+Legajo
+
+
+Apellido Paterno
+Apellido Materno
+Nombres
+Registro
+DNI
+
+
+
+Proceso de Selección 	
+Fec. Ingreso 	
+Datos Compl. 	
+FUP 
+
+Tipo Sanción 	
+Documento 	
+Días 	
+Fecha de Documento 	
+Fecha Notificación 	
+Fecha Ini. Vigencia 	
+Fecha Fin. Vigencia 	
+Estado 	
+UUOO que Sanciona
+
+Estado 	
+Documento 	
+Número 	
+Fecha 	
+Tipo 	
+Asunto 	
+Fecha Inic. Vigencia 	
+Fecha Term. Vigencia
+
+
+
+Buscar:
+Centro Educativo 	
+Tipo 	
+Especialidad 	
+Nivel 	
+Periodo 	
+Fecha Presentación
+
+Buscar:
+Centro Educativo 	
+Tipo 	
+Especialidad 	
+Nivel 	
+Periodo 	
+Fecha Presentación 
+
+
+Buscar:
+Centro de Estudios 	
+Descripción          	
+Año 	
+F.Inicio 	
+F.Término 	
+Tipo Certificado 	
+Sustentado 	
+Nota 	
+Ranking 
+
+
+Buscar:
+Año 	
+Número 	
+Estado 	
+Acción de Personal 	
+Unidad Org. Actual 	
+Unidad Org. Anterior 	
+Categoría Actual 	
+Fecha Inicio
+
+
+
+
+
+
+desde ya gracias por tu atencion 
+
+
+
+
+Año
+Número 
+Apellidos y Nombres 
+Nro. Documento 
+Vínculo Familiar 
+Fec. Nacimiento 
+Fec. Registro 
+Fec. Modif. 
+Situación 
+
+
+
+
+
+Ningún dato disponible en esta tabla
+
+
+
+
+
+
+(CUS02 - Punt 5 del flujo principal)
+
+Fecha Ingreso: 18/11/1996
+Fecha Cese: -
+Régimen: D.LEG.728 (PLAZO INDETERMINADO)
+Modalidad: CONTRATO A PLAZO INDETERMINADO
+Categoría / Cargo: ESPECIALISTA 2
+Cargo Temporal: SUPERVISOR ENCARGADO
+Función: -
+Unidad Organizacional: 1U2303 - DIVISIÓN DE DESARROLLO DE SISTEMAS ADMINISTRATIVOS - SUPERVISIÓN 3 
+Unidad Organizacional Temporal: 1U2303 - DIVISIÓN DE DESARROLLO DE SISTEMAS ADMINISTRATIVOS - SUPERVISIÓN 3 
+
+Correo Electrónico: guriartec@sunat.gob.pe
+Dirección: JR. LOS INKAS 166 DPTO 101
+Urbanización: URB. LOS MOLINOS DEL CORR
+Distrito: 150114 - LIMA LIMA LA MOLINA
+Referencia: ALTURA CRDA. 29 ALAMEDA DEL CORREGIDOR
+Fecha Nacimiento: 09/03/1973 46 AÑOS
+Fecha Fallecimiento: -
+Afiliado a EPS: -
+Grupo Sanguíneo: O - RH +
+Estado Civil: CASADO(A)
+Sexo: MASCULINO
+
+Observaciones: NOMBRAMIENTO REGISTRO ANTERIOR H976
+
+
+925729765
+
+
+
+Básicos
+Personal
+Curriculum Vitae
+Familiares y Derechohabientes
+Acciones
+Desarrollo
+Capacitación Interna
+Docencia
+Méritos
+Deméritos
+Selección
+
+padding-right: 15px;padding-left: 15px;
+
+									</div>
+									<div class="row">
+
+label.font-weight-normal-pad {
+    font-weight: normal;
+    /* padding-top: 7px; */
+    /* margin-bottom: 0; */
+}
+
+Command: Commit  
+Modified: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DML_01.sql  
+Sending content: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DML_01.sql  
+Completed: At revision: 54599  
+
+
+							<jsp:include page="DatosBasicosPart.jsp" />
+
+							<!-- Curriculum Vitael -->
+							<jsp:include page="DatosCurriculumPart.jsp" />
+							
+							<!-- Familiares -->
+							<jsp:include page="DatosFamiliaresPart.jsp" />
+							
+							<!-- Acciones -->
+							<jsp:include page="DatosAccionesPart.jsp" />
+							
+							<!-- Capacitación Interna -->
+							<jsp:include page="DatosCapacitaIntPart.jsp" />
+							
+							<!-- Docencia -->
+							<jsp:include page="DatosDocenciaPart.jsp" />
+							
+							<!-- Meritos -->
+							<jsp:include page="DatosMeritosPart.jsp" />
+							
+							<!-- Demeritos -->
+							<jsp:include page="DatosDemeritosPart.jsp" />
+							
+							<!-- Postulaciones -->
+							<jsp:include page="DatosPostulacionesPart.jsp" />
+
+SIRH-ANALISTA OIP
+ANALISTA-OIP
+
+Basicos
+Curriculum
+Familiares
+Acciones
+CapacitaInt
+Docencia
+Meritos
+Demeritos
+Postulaciones
+
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-operativo-registrooperacion-sharedlib
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-operativo-registrooperacion-backend
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-operativo-registrooperacion-webapp
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-operativo-registrooperacion-batch
+
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-operativo-ingresosalida-sharedlib
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-operativo-ingresosalida-backend
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-operativo-ingresosalida-webapp
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-operativo-ingresosalida-batch
+
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-fiscalizacion-accioncontrol-sharedlib
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-fiscalizacion-accioncontrol-backend
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-fiscalizacion-accioncontrol-webapp
+http://gitlab.insi.sunat.peru/iqbf/iqbf3-fiscalizacion-accioncontrol-batch
+
+
+
+
+
+
+
+
+Código	Descripción	Orden	Contexto	Página	
+2.4.1.2.1	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Validar Lista de Inconsistencias	1	/ol-ti-iarenlab	/renlabS01Alias?accion=cargarInconsistencias	
+2.4.1.2.2	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Listas Pendientes de Enviar a Validar	2	/ol-ti-iarenlab	/renlabS03Alias?accion=cargarListasPendientes	
+2.4.1.2.3	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Validar Listas de Evaluados	3	/ol-ti-iarenlab	/renlabS03Alias?accion=cargarValidarListas	
+2.4.1.2.4	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Reporte de Monitoreo	4	/ol-ti-iaevalregistro	/Evaluacion.htm?action=iniciarMonitoreo	
+2.4.1.2.5	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Descarga de evaluaciones	5	/ol-ti-iarenlab	/renlabS01Alias?accion=cargarDescargasDisponibles	
+2.4.1.2.6	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Impresión Masiva de Evaluaciones	6	/ol-ti-iarenlab	/renlabS01Alias?accion=impresionMasivaEvaluados	
+2.4.1.2.7	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Administrador de Opciones	7	/ol-ti-iarenlab	/renlabS01Alias?accion=administradorPublicaciones	
+2.4.1.2.8	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Monitorear Proceso de Evaluación	8	/ol-ti-iaevalregistro	/Evaluacion.htm?action=iniciarMonitoreoUnidades	
+2.4.1.2.9	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Importar, Exportar Evaluaciones Devueltas	9	/ol-ti-iaevalregistro	/Administracion.htm?action=iniciarConsultaEvalDevueltas	
+2.4.1.2.10	RRHH / Desarrollo de Personas / Rendimiento Laboral / Administración / Reporte de distribución por grupo de evaluación	10	/ol-ti-iaevalregistro	/Administracion.htm?action=iniciarReporteDistribucion	
+
+
+
+alopezm
+
+SALAZAR ROMERO, PATRICIA ZARINA
+
+Adm1nbpmS042014
+
+perlas de sabiduriA 
+
+listarUnidadesByDirectivo
+
+
+Oh Dios, escudo nuestro,
+    pon sobre tu ungido tus ojos bondadosos.
+
+
+
+creo
+
+Command: Commit  
+Modified: D:\DOCU001\INSI_SVN\LINEABASE\rrhh-asistencia.ear.lb  
+Sending content: D:\DOCU001\INSI_SVN\LINEABASE\rrhh-asistencia.ear.lb  
+Completed: At revision: 7321  
+
+
+Command: Commit  
+Modified: D:\DOCU001\INSI_SVN\LINEABASE\rrhh-asistencia.ear.lb  
+Sending content: D:\DOCU001\INSI_SVN\LINEABASE\rrhh-asistencia.ear.lb  
+Completed: At revision: 7320  
+
+
+
+
+
+
+
+
+
+
+
+
+BusquedaTrabajador
+
+
+
+
+se viene nuevo año de retos 
+
+7F0206
+
+1629449
+
+con la bendicion de Dios
+
+17/12/2019
+18:27:34
+
+18/12/2019
+18:14:15
+
+20/12/2019
+18:21:36
+
+
+
+51
+57
+
+108
+371
+
+
+Command: Commit  
+Modified: D:\DOCU001\INSI_SVN\IPLANET\MENU\sistemas.json  
+Sending content: D:\DOCU001\INSI_SVN\IPLANET\MENU\sistemas.json  
+Completed: At revision: 67145  
+
+
+acade 9
+espec 10
+cert 9
+cno 6
+expe 10
+
+restablecer configuracion de fabrica
+
+
+ficha de datos
+
+
+prov 2:1-7
+sabiduría 
+
+
+Johneddie1
+
+
+73
+315
+
+
+osea 
+
+
+
+               <cod_ficha_registral>W</cod_ficha_registral>
+               <des_apemat_pnat>GONZALES</des_apemat_pnat>
+               <des_apepat_pnat>SALIRROSAS</des_apepat_pnat>
+               <des_nombre_pnat>SARA KAREN</des_nombre_pnat>
+               <ind_imagen>S</ind_imagen>
+               <ind_verifica>2</ind_verifica>
+               <num_docide_pnat>45592565</num_docide_pnat>
+31
+
+               <cod_ficha_registral>W</cod_ficha_registral>
+               <des_apemat_pnat>GONZALES</des_apemat_pnat>
+               <des_apepat_pnat>SALIRROSAS</des_apepat_pnat>
+               <des_nombre_pnat>RAQUEL LOURDES</des_nombre_pnat>
+               <ind_imagen>S</ind_imagen>
+               <ind_verifica>8</ind_verifica>
+               <num_docide_pnat>43492609</num_docide_pnat>
+33
+
+               <cod_ficha_registral>F</cod_ficha_registral>
+               <des_apemat_pnat>GONZALES</des_apemat_pnat>
+               <des_apepat_pnat>SALIRROSAS</des_apepat_pnat>
+               <des_nombre_pnat>ANA SUSANA</des_nombre_pnat>
+               <ind_imagen>S</ind_imagen>
+               <ind_verifica>7</ind_verifica>
+               <num_docide_pnat>44200738</num_docide_pnat>
+32
+
+
+
+buzonbodyconstanciapresentacion
+
+20600219082
+10460265792
+
+maestrobanco.obtenerBanco
+
+ProcesoPostulante procesoPostulante = new ProcesoPostulante();
+			procesoPostulante.setNumPostulante(numPostulante);
+			procesoPostulante.setCodCat(new Short(codCat));
+			procesoPostulante.setCodFase(Constantes.CODIGO_FASE_GANADORES_ACCESITARIOS); 
+
+
+Constantes.CODIGO_FASE_GANADORES_ACCESITARIOS
+
+Centro Educativo, 
+Tipo De Docencia, 
+Especialidad, 
+Nivel
+
+Fecha de Presentación, 
+Fecha de Registro
+
+
+numArcFup
+
+madurez para llevar una madurez con propósito
+
+
+
+t9369detallefase d,
+
+f.cod_cat = d.cod_cat
+	    and f.num_postulante = d.num_postulante
+	    and d.ind_del = '0'
+	    and d.cod_resultado in ('03','04')
+
+
+
+
+me habla bastante de Ud. 
+
+impresión para ganarnos a nuestros suegros
+
+
+               <des_apemat_pnat>SOTO</des_apemat_pnat>
+               <des_apepat_pnat>GONZALES</des_apepat_pnat>
+               <des_nombre_madre>VICTORIA</des_nombre_madre>
+               <des_nombre_padre>JULIO CONSTANTINO</des_nombre_padre>
+               <des_nombre_pnat>ANDREA CAROLINA</des_nombre_pnat>
+
+
+AV. ARNALDO MARQUEZ 1372 DPTO. 301
+
+76746968
+
+ select
+	 o.cod_cat, o.cod_puesto, o.num_postulante, o.ind_estado, o.num_arc_fup, o.cod_usuregis, o.fec_regis,
+      o.cod_usumodif, o.fec_modif,
+      s.des_abrevi_cat as desAbreviCat,
+      s.ann_proceso as annoProceso,
+      s.des_puesto as desPuesto,
+      s.fec_inicontrato as fecInicontrato  
+	from 
+	    t8240postulacion o,
+	    t1368seleccion_cat s,
+	    t8334fichadatosh p
+	where  
+	    s.estado = '1'
+	    and s.tipo_conv != '3' 
+	    and o.num_postulante = p.num_postulante
+	    and o.cod_cat = p.cod_cat
+	    and o.cod_puesto = p.cod_puesto
+	    and p.cod_tipo_doc = #codTipoDoc#
+	    and p.num_doc_id = #numDocId#
+	    and o.cod_cat = s.cod_cat
+
+    <result column="annoProceso" property="annoProceso" jdbcType="SMALLINT" />
+    <result column="desAbreviCat" property="desAbreviCat" jdbcType="CHAR" />
+    <result column="desPuesto" property="desPuesto" jdbcType="CHAR" />
+    <result column="fecInicontrato" property="fecInicontrato" jdbcType="CHAR" />
+
+pruebas@sunat.gob.pe
+
+dxbdiasgme
+
+maestroBancoDAO
+maestroTafpDAO
+rucNumDocDAO 
+grupos por default
+grupos por tarea
+
+
+en esa tarea el dueño del proceso
+
+
+usuario destino - grupo
+reglas de asignacion - script
+
+
+
+
+
+
+regimenPensionDAO
+bancoCTSDAO
+quintaCategoriaDAO
+
+
+t9983regpension
+
+t9980bancocts
+
+t9982quinta
+
+maestroMonedaDAO
+maestroTafpDAO
+rucNumDocDAO
+
+Server cannot be stopped because the node agent for server webserver1 on node S01CLXWIHS001-web is not active.
+
+Constantes.PARAMETRO_COMPLEMENTARIOS
+
+puesto.getDesAbreviCat()
+puesto.getPerProceso()
+annproceso smallint
+puesto.getDesPuesto()
+
+
+postulacion
+seleccioncat
+fichadatos
+
+
+$('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+		        $($.fn.dataTable.tables(true)).DataTable()
+		           .columns.adjust()
+		           .responsive.recalc();
+		    });
+
+8
+11
+
+
+university
+chalkboard-teacher
+trophy
+medal
+ briefcase
+
+  <jdbc-system-resource>
+    <name>dgsigpo</name>
+    <target>ServiciosAdministrativos</target>
+    <descriptor-file-name>jdbc/dgsigpo-jdbc.xml</descriptor-file-name>
+  </jdbc-system-resource>
+
+  <jdbc-system-resource>
+    <name>dxbdiasgme</name>
+    <target>ServiciosAdministrativos</target>
+    <descriptor-file-name>jdbc/dxbdiasgme-jdbc.xml</descriptor-file-name>
+  </jdbc-system-resource>
+
+dgsigpo
+
+
+
+
+
+
+
+
+
+
+
+
+según la forma como la celebra
+va y biene
+
+2 cor 5:17-21 de modo que si alguno está en Cristo
+fili 2:5 haya pues en vosotros 
+
+roma 5:6 
+
+
+SAU20191L000000017 2017001542
+LO QUE NO SE PUEDE HACER PESE HABER REGISTRADO TODOS LOS CAMPOS, INCLUIDO EL RESULTADO FINAL DE INVOLUCRADO, Y AL TRATAR DE PASARLO A EJECUCIÓN SALE COMO MENSAJE “DEBE INGRESAR RESULTADO FINAL DE INVOLUCRADO”
+
+SAU20191L000000013 2015009166
+LO QUE NO SE PUEDE HACER PESE HABER REGISTRADO TODOS LOS CAMPOS, INCLUIDO EL NÚMERO DE DNI QUE PESE HABERLO REGISTRADO COMO PUEDEN OBSERVAR; SALE COMO MENSAJE QUE FALTA INGRESAR EL NÚMERO DE DNI involucrado.
+
+
+
+matrimonio
+fallecimiento
+
+
+
+
+
+25704729
+
+25650427
+
+delete from t4880derechohab where num_ddjj='67352';
+delete from t4878ddjjsegui where num_ddjj='67352';
+delete from t4877ddjjarchivo where num_ddjj='67352';
+
+
+
+Command: Commit  
+Adding: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DML_01.sql  
+Sending content: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20191U230300281_DML_01.sql  
+Completed: At revision: 54273  
+
+
+https://sunatperu.sharepoint.com/sites/insi/pases2013/2019_1U2303/00281
+
+
+Command: Commit  
+Adding: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20181U230300281_DML_01.sql  
+Sending content: D:\DOCU001\INSI_SVN\INFORMIX\Pases\2019\1U2303\SQLs\PAS20181U230300281_DML_01.sql  
+Completed: At revision: 54251  
+
+PAS20191U230300281 - jquispecoi - Consulta de legajo de personal, carga masiva de capacitaciones y replica en SIRH-Registro en autoservicio.
