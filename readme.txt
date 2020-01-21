@@ -1,3 +1,5 @@
+https://memlisapd01.mem.int/ServiciosDGFM/WSUtilitarioDGFM.svc?WSDL
+
 [root@p005sps01 bin]# ./wsadmin.sh -host p005sps01 -port 8880 -conntype SOAP -user wasadmin -password xxxxxx -lang jython
 WASX7209I: Connected to process "PS_PRD01.AppCluster.p005sps01Node01.0" on node p005sps01Node01 using SOAP connector;  The type of process is: ManagedProcess
 WASX7031I: For help, enter: "print Help.help()"
